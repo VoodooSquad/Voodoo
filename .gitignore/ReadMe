@@ -1,0 +1,67 @@
+Voodoo
+The best cure for one's bad tendencies is to see them in action in another person. Voodoo is a family-friendly solution for a social problem: Cursing applicable on google home. you don’t need to buy any hardware!
+
+Inspiration:
+Americans used to have this way of raising their kids, whenever one of them curse, they take away one dollar from them, put it in a jar. So basically Voodoo is the modern way to that!
+
+What it does?
+Voodoo is a google home app that detects voice, whenever someone curse Voodoo hears it, and reply a notification: One dollar deducted, Voodoo is connected to the user's e-wallet and the Saudi social charity fund bank account, so it deducts the money from the person's account, and donate it to a charity.
+
+How we built it?
+1- Google home assistant.
+
+2- Actions on google.
+
+3-Google APIs: Dialogue flow, API, Actions API.
+
+4- hostinger.
+
+5- Paypal.
+
+6- Cloud functions for firebase. 
+
+Coding Languages: 
+
+a- Json. 
+
+b- Js. 
+
+c- HTML. 
+
+d- CSS.
+
+Challenges we ran into:
+1- Google home wake-up word, Voice trigger. 
+
+2- Wake-up command. 
+
+3- Money Transaction.
+
+Accomplishments that we're proud of:
+We are done with our app! Voodoo now is alive! We passed our challenge of transacting money successfully PLUS! we simulate our app! Our main accomplishment proudly is the friendly teamwork spirit and our fancy designs of course!
+
+What we learned?
+Each member learned something special individually, but in general, the main things that are now added to our skills are:
+
+1- JS 
+
+2- Json 
+
+3- Firebase
+
+ 4- webhook
+
+What's next for Voodoo?
+1- We emailed Google to ask if we can change the wake-up command, they reply friendly that they are excited to the idea and want more details about the project to take it to the next level. 
+
+2- AI algorithms to monitor social media bots, for a healthier environment 
+
+3- More languages. 
+
+4-Curses updates.
+
+Voodoo Squad
+Built With
+dialogue-flow
+google-actions
+google-home
