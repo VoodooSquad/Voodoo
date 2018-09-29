@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: #ffffff ;
+    text-align: left;
+}
+h1 {
+    background-color: #ff66cc;
+}
+h2 {
+    color: #ffffff ;
+    text-align: left;
+}
+h2 {
+    background-color: #000000;
+}
+
+h3{
+    color: #e7e7e7 ;
+    background-color: #e7e7e7;
+}
+h4{
+    color: #ffffff ;
+    background-color: #000000;
+}
+div {
+    border: 6px solid #E7E7E7 ;
+    background-color: #white;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+
+
+
+p {
+    font-family: times new roman;
+    font-size: 25px;
+}
+
+p.center {
+    text-align: left;
+   
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #34a853;
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 80%;
+   background-color: white;
+   color: black ;
+   text-align: center;
+}
+</style>
+</head>
+</body>
