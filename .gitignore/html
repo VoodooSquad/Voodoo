@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Voodoo </title>
+<link rel="stylesheet" href="stylesheet.css" type="text/css" />
+</head>
+<body>
+<CENTER><IMG SRC="logovo.png" ALIGN="BOTTOM"> </CENTER>
+
+<ul>
+<h1><li><a href="#voodoo"> Voodoo</a></li></h1>
+<h1><li><a href="#about">About </a></li></h1>
+<h1><li><a href="#contact">contact </a></li></h1>
+</ul>
+
+<h3 id="voodoo"> Voodoo</h3>
+<div style="background-color: #e7e7e7 ;color:black ;padding:22px;">
+  <h2> <left><IMG SRC="raneem1.png" ALIGN="left"> </left> 
+      <p align= "center" ><br> </p>
+          <p align= "center" > <br> </p>
+    <p align= "center" >The best cure for one's bad tendencies </p>
+  <p align = "center" >is to see them in action in another person</p>
+      <p align= "center" > <br> </p>
+    <p align= "center" > <br>  </p>
+  </h2>
+</div> 
+
+<h3 id="about"> About </h3>
+<div style="background-color: #e7e7e7 ;color:black ;padding:22px;">
+<h2> <right><IMG SRC="raneem2.png" ALIGN="right"> </right> 
+    <p align= "center" > <br>  </p>
+    <p align= "center" >Voodoo is a google home assistant action that can detect voice. </p>
+  <p align = "center" >Whenever someone curse Voodoo deduct one dollar from the person's </p>
+   <p align = "center" >account and donate it to a charity from their choice.</p>
+    <p align= "center" > <br>  </p>
+  </h2>
+  </div> 
+
+
+
+<h3 id="contact"> Contact</h3>
+
+<div style="background-color: #e7e7e7 ;color:black ;padding:22px;">
+  <h2> <left><IMG SRC="raneem3.png" ALIGN="left"> </left> 
+      <p align= "center" ><br> </p>
+          <p align= "center" > <br> </p>
+    <p align= "center" >Hey Voodoos !! </p>
+  <p align = "center" > It will be really great to hear your feedbacks and suggestions !</p>
+      <p align= "center" > <br> </p>
+    <p align= "center" > <br>  </p>
+  </h2>
+</div> 
+
+<address>
+Contact with us! <a href="mailto:voodooSTKJ@gmail.com"> Voodoo support team </a>.<br>
+KSA, Thuwal. <br>
+</address>
+<p> Voodoo team. <p> 
+</div> 
+</body>
+</html>
