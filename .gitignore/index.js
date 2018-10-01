@@ -33,13 +33,13 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 	function Reduction (app){
 	  
 
-axios.post('https://mandrillapp.com/api/1.0/messages/send.json', {
-    key: 'e3586a5261ec9f1ab7d213c17a71c164-a4502f89-d2f7da1d',
+axios.post('', {
+    key: '',
     message: {
-      from_email: 'voodoostkj@gmail.com',
+      from_email: 'voodoos...@gmail.com',
       to: [
           {
-            email: 'alem.mai@gmail.com',
+            email: '...',
             name: 'Mai Alem',
             type: 'to'
           }
