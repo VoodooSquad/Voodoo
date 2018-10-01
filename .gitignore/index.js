@@ -33,8 +33,8 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
 	function Reduction (app){
 	  
 
-axios.post('', {
-    key: '',
+axios.post('...', {
+    key: '...',
     message: {
       from_email: 'voodoos...@gmail.com',
       to: [
